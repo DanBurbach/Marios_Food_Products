@@ -1,0 +1,10 @@
+<h1>Here are our products</h1>
+
+<ul>
+  <% @products.each do |product| %>
+    <li><%= product.name %></li>
+  <% end %>
+</ul>
+
+
+<h3><%= link_to "Return to Home", reviews_path %></h3>

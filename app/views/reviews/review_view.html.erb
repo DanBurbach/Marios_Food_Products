@@ -1,0 +1,10 @@
+<h3>Below are the reviews</h3>
+
+<ul>
+  <% @reviews.each do |review| %>
+    <li><%= review.name %></li>
+  <% end %>
+</ul>
+
+
+<h3><%= link_to "Return to Home", reviews_path %></h3>
