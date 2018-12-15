@@ -27,10 +27,10 @@ Does not load up onto localhost:3000 (and therefore cannot be navigated through)
 
 <h3>Future Planning</h3>
 I would like to finish this project and I imagine the following being true when the project is completed:
-1. Home page loads correctly. Displaying a nav bar on the right side, a row for top reviewed products (3 of them), a row of new products (3 of them), and a navigation grid of the products by class or by type of product (vegitable, fruit, meat, cheese, grains, etc.)
-2. A database holding all the information of said products AND the availability to look up, edit, create, and delete products.
-3. A database holding all reviews. With the availablity to have the reviewer state their location and recommend products to them based on location.
-4. Using CSS to "spice it up a little"
+<li>Home page loads correctly. Displaying a nav bar on the right side, a row for top reviewed products (3 of them), a row of new products (3 of them), and a navigation grid of the products by class or by type of product (vegitable, fruit, meat, cheese, grains, etc.)</li>
+<li>A database holding all the information of said products AND the availability to look up, edit, create, and delete products.</li>
+<li>A database holding all reviews. With the availablity to have the reviewer state their location and recommend products to them based on location.</li>
+<li>Using CSS to "spice it up a little"</li>
 
 <h3>Support and contact details</h3>
 If you have any questions please contact Daniel Burbach via email: dburbach1982@gmail.com
