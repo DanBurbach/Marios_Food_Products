@@ -1,0 +1,2 @@
+  [1m[35m (188.8ms)[0m  [1m[35mDROP DATABASE IF EXISTS "Marios_Food_Products_test"[0m
+  [1m[35m (536.3ms)[0m  [1m[35mCREATE DATABASE "Marios_Food_Products_test" ENCODING = 'unicode'[0m
